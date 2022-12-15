@@ -54,7 +54,18 @@ education:
       time: 01/06/2013 - 01/06/2016
 experiences:
     - role: Software Engineer
-      time: 04/08/2020 - Present
+      time: 16/06/2022 - Present
+      company: Tranzact, Mumbai
+      details: |
+        [Tranzact](https://letstranzact.com/): Digitizing SME manufacturers into extraordinary businesses!
+        I joined the mobile team as a flutter developer.
+       
+        Worked on the bellow features.
+          - Restruring the app using riverpod
+          - Fixing bugs and maintain crash-free users to 99%
+          - Built multiple features as per product/business need
+    - role: Software Engineer
+      time: 04/08/2020 - 18/05/2022
       company: Vedantu, Bangalore
       details: |
         [Vedantu](https://www.vedantu.com/): Vedantu is the pioneer of LIVE Online learning in India and has redefined online education since. In these difficult times, our aim is to ensure that learning is not interrupted for students
