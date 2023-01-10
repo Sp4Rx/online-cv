@@ -63,6 +63,8 @@ experiences:
         Worked on the bellow features.
           - Restruring the app using riverpod
           - Fixing bugs and maintain crash-free users to 99%
+          - Added ability to receive push notification using MoEngage with A/B.
+          - Setup separate prod and dev environment from base.
           - Built multiple features as per product/business need
         
         Here I got the opportunity to manage a small team.
