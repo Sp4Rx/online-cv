@@ -53,6 +53,21 @@ education:
       university: St. Thomas' College of Engineering and Technology, Kolkata
       time: 01/06/2013 - 01/06/2016
 experiences:
+    - role: Senior Full Stack Developer
+      time: 03/06/2023 - 04/01/2024
+      company: Tailorbird, Remote
+      details: |
+        [Tailorbird](https://www.tailorbird.com/): Tailorbird.us redefines the multifamily renovation landscape with AI-powered efficiency. 
+        Their innovative software streamlines pre-construction, accelerating timelines and reducing costs for both property owners and contractors. 
+        Imagine: bids generated in days, automated design optimization, and streamlined communication—all leading to beautifully renovated units weeks faster. 
+        Tailorbird.us weaves digital magic into the process, transforming sluggish upgrades into seamless transformations.
+       
+        What I did:
+          - Setting up the foundation of the Flutter app architecture.
+          - Worked on a SiteWalk where we had implemented Forge Viewer, through which we could view Revit models of buildings/projects
+          - Created the architechutre of pdf generation which is used for reports generation
+          - Contributed to apis and flutter app features as per product requirements.
+        
     - role: Software Engineer
       time: 16/06/2022 - Present
       company: Tranzact, Mumbai
