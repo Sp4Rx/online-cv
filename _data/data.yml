@@ -63,7 +63,7 @@ experiences:
         Tailorbird.us weaves digital magic into the process, transforming sluggish upgrades into seamless transformations.
        
         What I did:
-          - Setting up the foundation of the Flutter app architecture.
+          - Setting up the foundation of the Flutter app architecture using Bloc, GraphQl, Hive.
           - Worked on a SiteWalk where we had implemented Forge Viewer, through which we could view Revit models of buildings/projects
           - Created the architechutre of pdf generation which is used for reports generation
           - Contributed to apis and flutter app features as per product requirements.
