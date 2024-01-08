@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in the main section instead of in the sidebar
 
     # Profile information
     name: Suvajit Sarkar
@@ -48,10 +48,12 @@ career-profile:
     summary: |
       Developer with 6 years of experience working with Flutter, Firebase, Figma, Dio, Bloc, Riverpod, Java, Kotlin, React Native. 
       I have developed successful apps that have touched millions of people.
+
 education:
     - degree: B.Tech in Computer Science & Engineering
       university: St. Thomas' College of Engineering and Technology, Kolkata
       time: 01/06/2013 - 01/06/2016
+
 experiences:
     - role: Senior Full Stack Developer
       time: 03/06/2023 - 04/01/2024
@@ -63,24 +65,24 @@ experiences:
         Tailorbird.us weaves digital magic into the process, transforming sluggish upgrades into seamless transformations.
        
         What I did:
-          - Setting up the foundation of the Flutter app architecture using Bloc, GraphQl, Hive.
-          - Worked on a SiteWalk where we had implemented Forge Viewer, through which we could view Revit models of buildings/projects
-          - Created the architechutre of pdf generation which is used for reports generation
-          - Contributed to apis and flutter app features as per product requirements.
-        
+          - [Flutter] Setting up the foundation of the Flutter app architecture using Bloc, GraphQL, Hive.
+          - [Flutter] Worked on a SiteWalk where we had implemented Forge Viewer, through which we could view Revit models of buildings/projects.
+          - [Python] Created the architecture for PDF generation used for report generation.
+          - [Flutter and Python] Contributed to APIs and Flutter app features as per product requirements.
+
     - role: Software Engineer
       time: 16/06/2022 - 10/02/2023
       company: Tranzact, Mumbai
       details: |
         [Tranzact](https://letstranzact.com/): Digitizing SME manufacturers into extraordinary businesses!
-        I joined the mobile team as a flutter developer.
+        I joined the mobile team as a Flutter developer.
        
-        Worked on the bellow features.
-          - Restruring the app using riverpod
-          - Fixing bugs and maintain crash-free users to 99%
-          - Added ability to receive push notification using MoEngage with A/B.
-          - Setup separate prod and dev environment from base.
-          - Built multiple features as per product/business need
+        Worked on the below features.
+          - Restructuring the app using Riverpod.
+          - Fixing bugs and maintaining crash-free users to 99%.
+          - Added the ability to receive push notifications using MoEngage with A/B.
+          - Set up separate prod and dev environments from the base.
+          - Built multiple features as per product/business needs.
         
         Here I got the opportunity to manage a small team.
     - role: Software Engineer
@@ -172,14 +174,17 @@ skills:
       - name: Flutter & Dart
         level: 90%
 
+      - name: Python
+        level: 60% 
+
       - name: Java
         level: 80%
 
       - name: Kotlin
-        level: 70%     
+        level: 60%     
 
       - name: React Native
-        level: 70%
+        level: 60%
                 
       - name: React JS
         level: 50%
@@ -187,8 +192,8 @@ skills:
       - name: Docker
         level: 50% 
         
-      - name: Jenkins
-        level: 50%    
+      - name: Jenkins/Github Actions
+        level: 50%
 
 # footer: >
 #   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley.</a><br>
