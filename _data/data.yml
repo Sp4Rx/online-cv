@@ -177,6 +177,9 @@ skills:
       - name: Python
         level: 60% 
 
+      - name: AWS
+        level: 50%
+
       - name: Java
         level: 80%
 
